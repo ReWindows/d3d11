@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "target": "d3d11.dll",
+  "latest": "2981777561-BB109D153B97D5885F8505D9A45F0771-1",
+  "builds": [
+    {
+      "key": "2981777561-BB109D153B97D5885F8505D9A45F0771-1",
+      "timestamp": "2981777561",
+      "pdb_guid": "BB109D153B97D5885F8505D9A45F0771",
+      "pdb_age": 1,
+      "machine": "0x8664",
+      "ir": "builds/2981777561-BB109D153B97D5885F8505D9A45F0771-1/ir.json.gz",
+      "previous": null,
+      "diff_json": null,
+      "diff_markdown": null,
+      "summary": null
+    }
+  ],
+  "compression": "gzip"
+}
